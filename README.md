@@ -1,3 +1,3 @@
 # Trilha JS Developer - Pokedex
 
-teste
+Pedro Cerri
