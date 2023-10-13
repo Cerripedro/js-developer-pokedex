@@ -1,3 +1,3 @@
 # Trilha JS Developer - Pokedex
 
-Pedro Cerri
+Pokedex relizada no Santander Bootcamp 2023 - Fullstack Java+Angular
